@@ -1,0 +1,14 @@
+{
+  "effective_from": "2025-09-01",
+  "motorbike_max_km": 50,
+  "extra_day_km": 500,
+  "roads": [
+    {"from": "Bình Dương", "to": "Đồng Nai", "km": 25},
+    {"from": "Bình Dương", "to": "Bình Phước", "km": 85},
+    {"from": "Đồng Nai", "to": "Bình Phước", "km": 120},
+    {"from": "Đồng Nai", "to": "Hồ Chí Minh", "km": 35},
+    {"from": "Bình Dương", "to": "Hồ Chí Minh", "km": 20},
+    {"from": "Hà Nội", "to": "Hồ Chí Minh", "km": 1630},
+    {"from": "Đà Nẵng", "to": "Quảng Nam", "km": 70}
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "effective_from": "2025-06-01",
+    "hubs": {
+      "Bình Dương": 20,
+      "Hồ Chí Minh": 60,
+      "Đồng Nai": 60,
+      "Bình Phước": 40,
+      "Hà Nội": 100,
+      "Bắc Ninh": 40,
+      "Hải Phòng": 50,
+      "Đà Nẵng": 60,
+      "Quảng Nam": 40,
+      "An Giang": 50,
+      "Đông Nam Bộ": 200,
+      "Đồng bằng sông Hồng": 200,
+      "Nam Trung Bộ": 150,
+      "Đồng bằng sông Cửu Long": 150
+    }
+  },
+  {
+    "effective_from": "2025-07-01",
+    "hubs": {
+      "Hồ Chí Minh": 150,
+      "Đồng Nai": 60,
+      "Bình Phước": 40,
+      "Hà Nội": 120,
+      "Hải Phòng": 50,
+      "Đà Nẵng": 70,
+      "An Giang": 50,
+      "Đông Nam Bộ": 200,
+      "Đồng bằng sông Hồng": 200,
+      "Nam Trung Bộ": 150,
+      "Đồng bằng sông Cửu Long": 150
+    }
+  }
+]

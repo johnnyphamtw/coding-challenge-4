@@ -1,0 +1,39 @@
+{
+  "lanes": {
+    "LOCAL": {
+      "first_block": 15000,
+      "first_block_g": 1000,
+      "per_extra_block": 3000,
+      "extra_block_g": 500,
+      "transit_days": 0
+    },
+    "SAME_PROVINCE": {
+      "first_block": 22000,
+      "first_block_g": 1000,
+      "per_extra_block": 4000,
+      "extra_block_g": 500,
+      "transit_days": 1
+    },
+    "SAME_REGION": {
+      "first_block": 30000,
+      "first_block_g": 1000,
+      "per_extra_block": 5000,
+      "extra_block_g": 500,
+      "transit_days": 2
+    },
+    "CROSS_REGION": {
+      "first_block": 38000,
+      "first_block_g": 1000,
+      "per_extra_block": 8000,
+      "extra_block_g": 500,
+      "transit_days": 3
+    }
+  },
+  "fuel_surcharge": {
+    "petrol_reference": 20000,
+    "diesel_reference": 18000,
+    "surcharge_percent_per_step": 3,
+    "cap_percent": 15,
+    "step_size": 1000
+  }
+}

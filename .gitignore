@@ -1,0 +1,14 @@
+# Root Binaries
+/engine
+/loadgen
+*.test
+
+# Benchmarks & Profiling
+*.prof
+load/*.jsonl
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
